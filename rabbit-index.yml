@@ -1,13 +1,13 @@
 rabbit:
   name: tuziyoukexing
 redis:
-    database: 0
-    host: 127.0.0.1
-    port:6379
-    timeout: 10000
-    pool:
-      max-active: 600
-      max-wait: 10000
-      max-idle: 30
-      minIdle: 0
+  database: 0
+  host: 127.0.0.1
+  port:6379
+  timeout: 10000
+  pool:
+    max-active: 600
+    max-wait: 10000
+    max-idle: 30
+    minIdle: 0
   
