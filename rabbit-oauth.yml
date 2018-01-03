@@ -1,4 +1,13 @@
-wechat:
-  appId: wx36bdc8a4f6856df0
-  redirectUri: http://4233dae9.ngrok.io/wechat/loginByWeiXin
-  secret: 5e67c74923442687499cc302c8c40475
+rabbit:
+  name: tuziyoukexing
+redis:
+  database: 0
+  host: 127.0.0.1
+  pool:
+    max-active: 600
+    max-idle: 30
+    max-wait: 10000
+    minIdle: 0
+  port: 6379
+  timeout: 10000
+
