@@ -1,0 +1,4 @@
+wechat:
+  appId: wx36bdc8a4f6856df0
+  redirectUri: http://4233dae9.ngrok.io/wechat/loginByWeiXin
+  secret: 5e67c74923442687499cc302c8c40475
